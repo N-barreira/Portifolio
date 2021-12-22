@@ -1,14 +1,10 @@
-# Portifolio
-Portifólio em html, css e js.
-Portfólio Do Desenvolvedor
+Portifolio do desenvolvedor
 
-## Tarefas 
-
+Tarefas
 O controle das tarefas desse projeto será realizado no GitHub
 
-## Ícones
-
-:package: nova funcionalidade
-:up: atualização
-:beatle: correção de bug
-:ckeckered_flag: release
+Ícones
+📦 nova funcionalidade
+🆙 atualização
+🪲 correção de bug
+🏁 release
